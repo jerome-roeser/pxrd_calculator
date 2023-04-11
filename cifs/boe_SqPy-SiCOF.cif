@@ -1,0 +1,84 @@
+data_boe_SqPy-SiCOF
+_audit_creation_date              2019-03-11
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P23'
+_symmetry_Int_Tables_number       195
+_symmetry_cell_setting            cubic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x,-y,z
+  -x,y,-z
+  x,-y,-z
+  z,x,y
+  z,-x,-y
+  -z,-x,y
+  -z,x,-y
+  y,z,x
+  -y,z,-x
+  y,-z,-x
+  -y,-z,x
+_cell_length_a                    16.8544
+_cell_length_b                    16.8544
+_cell_length_c                    16.8544
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+C1     C     0.17503  -0.28424  -0.27104   0.00000  Uiso   1.00
+C2     C     0.20514  -0.21885  -0.31451   0.00000  Uiso   1.00
+C3     C     0.31723  -0.28747  -0.09916   0.00000  Uiso   1.00
+C4     C     0.38417  -0.24611  -0.07420   0.00000  Uiso   1.00
+C5     C     0.42283  -0.19533  -0.12479   0.00000  Uiso   1.00
+C6     C     0.38867  -0.17244  -0.19623   0.00000  Uiso   1.00
+O7     O     0.09678  -0.49170  -0.16703   0.00000  Uiso   1.00
+O8     O     0.00154  -0.41651  -0.25141   0.00000  Uiso   1.00
+C9     C     0.00048   0.42799   0.95860   0.00000  Uiso   1.00
+H10    H     0.00090   0.37199   0.92711   0.00000  Uiso   1.00
+H11    H     0.29051  -0.32904  -0.05831   0.00000  Uiso   1.00
+H12    H     0.41964  -0.12927  -0.23211   0.00000  Uiso   1.00
+C13    C     0.00000   0.50000   1.08342   0.00000  Uiso   1.00
+Si14   Si    0.00000   0.50000   0.19462   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+C1     C2      1.417   .     A
+C1     C2      1.428   10    A
+C1     C3      1.422   7     A
+C2     C1      1.428   7     A
+C2     C6      1.418   10    A
+C3     C4      1.391   .     A
+C3     C1      1.422   10    A
+C3     H11     1.081   .     S
+C4     C5      1.373   .     A
+C4     O8      1.343   10    S
+C5     C6      1.389   .     A
+C5     O7      1.341   10    S
+C6     C2      1.418   7     A
+C6     H12     1.081   .     S
+O7     C5      1.341   7     S
+O7     Si14    1.702   3_545 S
+O8     C4      1.343   7     S
+O8     Si14    1.702   3_545 S
+C9     C9      1.396   3_557 A
+C9     C13     1.405   3_557 A
+C9     H10     1.083   .     S
+C13    C9      1.405   3_557 A
+C13    C9      1.405   4_567 A
+C13    Si14    1.874   1_556 S
+Si14   C13     1.874   1_554 S
+Si14   O8      1.702   3_565 S
+Si14   O8      1.702   4     S
+Si14   O7      1.702   3_565 S
+Si14   O7      1.702   4     S
